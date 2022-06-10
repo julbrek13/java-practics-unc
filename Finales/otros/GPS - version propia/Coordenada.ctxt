@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=posX\ posY
+comment0.target=Coordenada(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Coordenada\r\n
+comment1.params=posX
+comment1.target=void\ setPosicionX(int)
+comment2.params=posY
+comment2.target=void\ setPosicionY(int)
+comment3.params=
+comment3.target=int\ getPosicionX()
+comment4.params=
+comment4.target=int\ getPosicionY()
+numComments=5

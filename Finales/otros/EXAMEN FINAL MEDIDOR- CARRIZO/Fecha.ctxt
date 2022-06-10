@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=diaDelAnio\ anio
+comment0.target=Fecha(int,\ int)
+comment0.text=\n\ Constructor\ \n\ @param\ diaDelAnio\ El\ dia\ del\ a\uFFFDo,\ 1\ a\ 365\n\ @param\ anio\ El\ a\uFFFDo,\ entre\ 2000\ y\ 2100\n
+comment1.params=
+comment1.target=int\ getDiaDelAnio()
+comment1.text=\n\ \n\ @return\ el\ dia\ del\ a\uFFFDo.\ enntre\ 1\ y\ 365\n
+comment2.params=
+comment2.target=int\ getAnio()
+comment2.text=\n\ \n\ @return\ el\ a\uFFFDo\ de\ la\ fecha\n\ \n
+comment3.params=otra
+comment3.target=int\ compareTo(Fecha)
+comment4.params=otra
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

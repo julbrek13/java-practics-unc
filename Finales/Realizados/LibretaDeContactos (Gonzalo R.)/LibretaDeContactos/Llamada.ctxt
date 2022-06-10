@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=numero\ fecha\ duracion\ saliente
+comment0.target=Llamada(java.lang.String,\ Fecha,\ int,\ boolean)
+comment1.params=
+comment1.target=boolean\ isSaliente()
+comment2.params=
+comment2.target=int\ getDuracionEnSegundos()
+comment3.params=
+comment3.target=java.lang.String\ getNumero()
+comment4.params=
+comment4.target=Fecha\ getFecha()
+comment5.params=
+comment5.target=java.lang.String\ getDuracion()
+comment5.text=\r\n\ Retorna\ la\ duraci\uFFFDn\ en\ un\ string\ con\ formato\ <mm\:ss>\r\n\ Ejemp\ \ \ \ los\:\ "03\:15",\ "12\:03",\ "110\:45"\r\n\ \r\n\ @return\ El\ String\ con\ el\ formato\ indicado\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Retorna\ un\ String\ con\ el\ siguiente\ formato\:\r\n\ \r\n\ <aaaa/mm/dd>\ <hh\:mm>\ <(saliente)|(entrante)>\ <numero>\ <duracion>\r\n\ \r\n\ Ej.\ "2013/05/06\ 21\:44\ 3514801234\ (entrante)\ 05\:12"\r\n\ "2013/01/30\ 01\:14\ 1161293091\ (saliente)\ 12\:00"\r\n\ \r\n\ @return\ El\ String\ con\ el\ formato\ indicado\r\n
+numComments=7

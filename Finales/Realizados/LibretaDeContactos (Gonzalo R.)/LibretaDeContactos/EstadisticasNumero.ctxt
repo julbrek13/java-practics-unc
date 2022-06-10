@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EstadisticasNumero()
+comment1.params=
+comment1.target=int\ getSalientes()
+comment2.params=
+comment2.target=void\ incrementarSalientes()
+comment3.params=
+comment3.target=int\ getEntrantes()
+comment4.params=
+comment4.target=void\ incrementarEntrantes()
+comment5.params=
+comment5.target=int\ getDuracionSalientes()
+comment6.params=duracionSalientes
+comment6.target=void\ incremetarDuracionSalientes(int)
+comment7.params=
+comment7.target=int\ getDuracionEntrantes()
+comment8.params=duracionEntrantes
+comment8.target=void\ incrementarDuracionEntrantes(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

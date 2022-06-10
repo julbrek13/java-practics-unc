@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=m\ c\ lado
+comment0.target=Cubo(Material,\ Color,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cubo\r\n
+comment1.params=lado
+comment1.target=void\ setLado(int)
+comment1.text=\r\n\ para\ setear\ el\ lado\ del\ cubo\r\n\ y\ tal\ que\ lance\ una\ IllegalArgumentException\r\n\ cuando\ el\ lado\ es\ negativo\ con\ el\ mensaje\ "lado\ invalido".\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombreDeCuerpo()
+comment2.text=\r\n\ Devuelve\ el\ tipo\ del\ Cuerpo.\ Por\ ejemplo\ para\ instancias\ de\ la\ clase\ Cubo\ retorna\ \r\n\ "cubo",\ para\ instancias\ de\ la\ clase\ Esfera\ retorna\ "esfera",\ para\ instancias\ de\ \r\n\ la\ clase\ Cilindro\ retorna\ "cilindro",\ etc.\r\n\ \r\n\ @return\ el\ tipo\ de\ Cuerpo\r\n
+comment3.params=
+comment3.target=int\ getVolumen()
+comment3.text=\r\n\ Devuelve\ el\ volumen\ de\ este\ Cuerpo\ 3D\r\n\ @return\r\n
+comment4.params=
+comment4.target=int\ Volumen()
+comment4.text=\r\n\ Calcula\ el\ volumen\ del\ objeto\ 3D.\r\n\ @return\ volumen\ del\ cuerpo\r\n
+comment5.params=
+comment5.target=int\ Superficie()
+comment5.text=\r\n\ Calcula\ la\ superficie\ del\ objeto\ 3D\ (suma\ de\ todas\ las\ caras).\r\n\ @return\ superficie\ del\ cuerpo\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ retorna\ una\ cadena\ con\ el\ siguiente\ formato\:\r\n\ "Cubo\ de\ <MATERIAL>\ color\ <COLOR>\ de\ lado\ <LADO>,\ volumen\ <VOLUMEN>\ y\ superficie\ <SUPERFICIE>"\r\n
+numComments=7

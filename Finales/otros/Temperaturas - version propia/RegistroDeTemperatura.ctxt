@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tempAbsoluta\ anio\ dia\ hora\ minuto
+comment0.target=RegistroDeTemperatura(int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RegistroDeTemperatura\r\n
+comment1.params=
+comment1.target=Temperatura\ getTemperatura()
+comment1.text=\r\n\ Este\ m\uFFFDtodo\ retorna\ el\ objeto\ de\ la\ clase\ Temperatura\ asociado\ a\ este\ Registro\r\n
+comment2.params=
+comment2.target=TipoRegistro\ getTipo()
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=msj
+comment0.target=RegistroDuplicadoException(java.lang.String)
+comment0.text=\r\n\ Almacena\ los\ datos\ erroneos.\r\n\ @param\ msj\ El\ mensaje\ a\ ser\ transimitido\ con\ la\ excepci\u00F3n.\r\n
+numComments=1

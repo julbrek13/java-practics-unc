@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ICarrito
+comment1.params=item
+comment1.target=void\ addItem(Item)
+comment2.params=itemId
+comment2.target=void\ removeItem(java.lang.String)
+comment3.params=
+comment3.target=void\ clear()
+comment4.params=
+comment4.target=java.util.ArrayList\ getItemList()
+comment5.params=
+comment5.target=double\ getTotalCompra()
+numComments=6

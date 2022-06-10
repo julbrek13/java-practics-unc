@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=material
+comment0.target=Cuerpo3D(Material)
+comment0.text=\r\n\ Constructor\ con\ par\u00E1metros\r\n\ @param\ material\r\n
+comment1.params=
+comment1.target=int\ getVolumen()
+comment1.text=\r\n\ Devuelve\ el\ volumen\ de\ este\ Cuerpo\ 3D\r\n\ @return\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombreDeCuerpo()
+comment2.text=\r\n\ Devuelve\ el\ tipo\ del\ Cuerpo.\ Por\ ejemplo\ para\ instancias\ de\ la\ clase\ Cubo\ retorna\ \r\n\ "cubo",\ para\ instancias\ de\ la\ clase\ Esfera\ retorna\ "esfera",\ para\ instancias\ de\ \r\n\ la\ clase\ Cilindro\ retorna\ "cilindro",\ etc.\r\n\ \r\n\ @return\ el\ tipo\ de\ Cuerpo\r\n
+comment3.params=color
+comment3.target=boolean\ esColorValido(Color)
+comment3.text=\r\n\ Indica\ si\ el\ color\ es\ valido\ para\ este\ Cuerpo3D\r\n\ @param\ color\r\n\ @return\ true\ si\ es\ valido,\ false\ en\ caso\ contrario\r\n
+comment4.params=color
+comment4.target=void\ pintar(Color)
+comment4.text=\r\n\ Pinta\ el\ cuerpo3d\ \r\n\ @param\ color\ \r\n\ @throws\ CombinacionInvalidaException\r\n
+comment5.params=
+comment5.target=Color\ getColor()
+comment5.text=\r\n\ @return\ the\ color\r\n
+comment6.params=
+comment6.target=Material\ getMaterial()
+comment6.text=\r\n\ @return\ the\ material\r\n
+comment7.params=material
+comment7.target=void\ setMaterial(Material)
+comment7.text=\r\n\ @param\ material\ the\ material\ to\ set\r\n
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IPaginador
+comment1.params=
+comment1.target=int\ getPageSize()
+comment2.params=pageSize
+comment2.target=void\ setPageSize(int)
+comment3.params=fullList
+comment3.target=int\ getNumeroDePaginas(java.util.List)
+comment4.params=fullList\ pageNumber
+comment4.target=java.util.List\ getItemsPaginados(java.util.List,\ int)
+numComments=5

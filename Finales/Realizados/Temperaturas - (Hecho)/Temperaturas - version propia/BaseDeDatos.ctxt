@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BaseDeDatos()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BaseDeDatos\r\n
+comment1.params=
+comment1.target=Registro\ getRegistroMasViejo()
+comment1.text=\r\n\ Devuelve\ el\ registro\ con\ la\ fecha\ mas\ antigua\ en\ el\ Historial,\ o\ NULL\ cuando\r\n\ el\ historial\ est\uFFFD\ vac\uFFFDo\r\n\ \r\n\ @return\ el\ registro\ m\uFFFDs\ antiguo\ del\ historial\ \r\n\ \r\n
+comment2.params=r
+comment2.target=void\ agregarRegistro(Registro)
+comment2.text=\r\n\ Agrega\ un\ nuevo\ registro\ al\ historial.\ No\ acepta\ registros\ NULL\ (lanza\ IllegalArgumentException)\r\n\ @param\ r\r\n\ @throws\ RegistroDuplicadoException\ cuando\ se\ intenta\ agregar\ m\uFFFDs\ de\ una\ vez\ el\ MISMO\ registro\ al\ historial\r\n\ \r\n
+comment3.params=id
+comment3.target=Registro\ getRegistroPorId(java.lang.String)
+comment3.text=\r\n\ Busca\ Registros\ por\ ID\ en\ el\ historial.\ Si\ no\ hay\ registros\ con\ el\ ID\ solicitado,\ retorna\ NULL.\r\n\ No\ acepta\ NULL\ como\ argumento\ (lanza\ IllegalArgumentException)\r\n\ @param\ id\r\n\ @return\r\n
+comment4.params=
+comment4.target=void\ eliminarTodosLosRegistros()
+comment4.text=\r\n\ Remueve\ todos\ los\ Registros\ del\ Historial\r\n
+comment5.params=
+comment5.target=int\ getNumeroDeRegistros()
+comment5.text=\r\n\ Retorna\ la\ cantidad\ de\ registros\ que\ hay\ cargados\ en\ el\ historial\r\n\ @return\r\n
+comment6.params=tipo
+comment6.target=java.util.ArrayList\ getRegistrosPorTipo(TipoRegistro)
+comment6.text=\r\n\ Retorna\ una\ lista\ con\ todos\ los\ registros\ del\ tipo\ solicitado\ existentes\ en\ el\ historial\r\n\ Si\ el\ tipo\ solicitado\ es\ NULL,\ devuelve\ una\ lista\ vac\uFFFDa.\r\n\ @param\ tipo\r\n\ @return\r\n
+numComments=7

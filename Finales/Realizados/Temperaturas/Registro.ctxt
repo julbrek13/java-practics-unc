@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=anio\ dia\ hora\ minuto
+comment0.target=Registro(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=Fecha\ getFecha()
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment3.params=
+comment3.target=TipoRegistro\ getTipo()
+numComments=4

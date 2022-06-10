@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ Volumen()
+comment0.text=\r\n\ Calcula\ el\ volumen\ del\ objeto\ 3D.\r\n\ @return\ volumen\ del\ cuerpo\r\n
+comment1.params=
+comment1.target=int\ Superficie()
+comment1.text=\r\n\ Calcula\ la\ superficie\ del\ objeto\ 3D\ (suma\ de\ todas\ las\ caras).\r\n\ @return\ superficie\ del\ cuerpo\r\n
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=anio\ dia\ hora\ min
+comment0.target=Fecha(int,\ int,\ int,\ int)
+comment1.params=o
+comment1.target=boolean\ equals(java.lang.Object)
+comment2.params=f
+comment2.target=boolean\ esAnteriorA(Fecha)
+comment3.params=
+comment3.target=int\ getAnio()
+comment4.params=
+comment4.target=int\ getDia()
+comment5.params=
+comment5.target=int\ getHora()
+comment6.params=
+comment6.target=int\ getMinuto()
+numComments=7

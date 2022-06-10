@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LibretaDeContactos()
+comment1.params=contacto
+comment1.target=void\ agregarContacto(Contacto)
+comment2.params=numero
+comment2.target=Contacto\ getContactoPorNumero(java.lang.String)
+comment3.params=contacto
+comment3.target=void\ borrarContacto(Contacto)
+comment4.params=
+comment4.target=java.util.List\ getContactos()
+numComments=5

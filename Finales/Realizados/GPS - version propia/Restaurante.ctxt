@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=c\ id
+comment0.target=Restaurante(Coordenada,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Restaurante\r\n
+comment1.params=
+comment1.target=Tipo\ getTipo()
+numComments=2

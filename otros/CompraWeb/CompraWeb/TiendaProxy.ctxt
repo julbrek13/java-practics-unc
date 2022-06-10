@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TiendaProxy
+comment1.params=nombre
+comment1.target=TiendaProxy(java.lang.String)
+comment2.params=tamanio
+comment2.target=void\ setTamanioPagina(int)
+comment3.params=
+comment3.target=int\ getTamanioPagina()
+comment4.params=
+comment4.target=int\ getNumeroDePaginas()
+comment5.params=pagina
+comment5.target=java.util.List\ getPagina(int)
+comment6.params=filtro
+comment6.target=void\ addFiltro(IFiltro)
+comment7.params=
+comment7.target=void\ clearFiltros()
+comment8.params=id
+comment8.target=Item\ getItemPorID(java.lang.String)
+comment9.params=carrito\ tarjeta
+comment9.target=boolean\ validarCompra(ICarrito,\ Tarjeta)
+comment9.text=\n\ TODO\:\n\ implementar\ metodo\ tal\ que\:\n\ return\ TRUE\ si\ el\ valor\ total\ del\ carrito\ de\ compras\ no\ supera\ el\ limite\ de\ compra\ de\ la\ tienda\n\ de\ otro\ manera\ retorne\ FALSE\n\ \n\ throws\ TarjetaInvalidaException\ si\ la\ tarjeta\ es\ NULL\ o\ invalida\ \n\ \n\ Una\ trajeta\ es\ valida\ si\:\n\ \ Su\ numero\ tiene\ 16\ digitos\n\ \ Vencimiento\ al\ menos\ un\ mes\ posterior\ al\ mes\ actual\ (ej,\ 03/2013\ es\ valida\ hasta\ el\ 02/2013)\n\ \ \n\ \ ej\ tarjeta\ invalida\:\ "12309309023"\ 02/2020;\ "1234567812345678"\ 10/2010;"1234567812345678"\ 02/2013;\ null\ 05/2013\ \n\ \ \n\ \n
+numComments=10

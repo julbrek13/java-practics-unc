@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RegistroDeLlamadas()
+comment0.text=\r\n\ Constructor.\ \r\n
+comment1.params=numero
+comment1.target=java.util.List\ getLlamadasPorNumero(java.lang.String)
+comment1.text=\r\n\ Devuelve\ una\ lista\ con\ las\ llamadas\ cursadas\ o\ recibidas\ del\ numero\r\n\ telefonico\ pasado\ como\ par\uFFFDmetro.\r\n\ Un\ numero\ valido\ contiene\ 10\ digitos\ (luego\ de\ remover\ espacios\r\n\ previos\ o\ posteriores\ si\ los\ hubiera).\r\n\ \r\n\ @param\ numero\r\n\ @return\ Lista\ de\ llamadas\ \r\n\ @throws\ NumeroInvalidoException\ cuando\ el\ numero\ es\ null\ o\ con\ un\ formato\ invalido.\r\n
+comment2.params=saliente
+comment2.target=java.util.List\ getLlamadasPorDestino(boolean)
+comment2.text=\r\n\ \r\n\ @param\ saliente\ true\ para\ obtener\ llamadas\ salientes,\ false\ para\ llamadas\ entrantes\r\n\ @return\ Lista\ de\ llamadas\r\n
+comment3.params=
+comment3.target=int\ getDuracionTotalLlamadas()
+comment3.text=\r\n\ Devuelve\ un\ entero\ con\ la\ duracion\ total\ de\ las\ llamadas\ salientes\ y\r\n\ entrantes,\ en\ segundos\r\n\ \r\n\ @return\ duracion\ total\ de\ llamadas\r\n
+comment4.params=llamadas
+comment4.target=java.util.Map\ getMapaDeEstadisticas(java.util.List)
+comment4.text=\r\n\ Devuelve\ un\ mapa\ <String,\ EstadisticasNumero>\ \r\n\ con\ las\ estadisticas\ de\ cada\ numero\ en\ la\ lista\ de\ llamadas.\ \r\n\ \r\n\ @param\ llamadas\r\n\ @return\r\n
+numComments=5

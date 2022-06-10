@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IFiltro
+comment1.params=criterio
+comment1.target=void\ setCriterio(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCriterio()
+comment3.params=fullList
+comment3.target=java.util.List\ aplicar(java.util.List)
+numComments=4

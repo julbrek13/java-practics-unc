@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ mostrar()
+comment0.text=\r\n\ Muestra\ el\ objeto\ 3D.\r\n\ NOTA\:\ Despu\u00E9s\ de\ llamar\ a\ este\ m\u00E9todo,\ una\ llamada\ al\ m\u00E9todo\ "esVisible()"\ deber\u00EDa\ retornar\ TRUE\r\n\ \r\n\ @return\r\n
+comment1.params=
+comment1.target=void\ ocultar()
+comment1.text=\r\n\ Oculta\ el\ objeto\ 3D\r\n\ NOTA\:\ Despu\u00E9s\ de\ llamar\ a\ este\ m\u00E9todo,\ una\ llamada\ al\ m\u00E9todo\ "esVisible()"\ deber\u00EDa\ retornar\ FALSE\r\n\ @return\r\n
+comment2.params=
+comment2.target=boolean\ esVisible()
+comment2.text=\r\n\ Muestra\ la\ visibilidad\ del\ objeto\ 3D.\r\n\ @return\ true\ si\ el\ cuerpo\ es\ visible\ (ha\ sido\ mostrado)\ y\ false\ en\ caso\ contrario\ (ha\ sido\ ocultado)\r\n
+numComments=3

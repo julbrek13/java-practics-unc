@@ -1,0 +1,40 @@
+El sistema modela el mecanismo de tarifacion y lectura de una empresa de Energia.
+- La empresa posee clientes, cada uno de los cuales tiene asociado un Medidor. Los clientes tienen tambien una lista de lecturas realizadas.La clase Empresa posee metodos para dar de alta y baja clientes, incorporar o dar de baja medidores, y asociar y separar clientes de medidores.
+- La clase Cliente permite a su vez registrar lecturas del medidor asociado, obtener el consumo de un cliente en un periodo determinado, y agregar o remover un medidor.
+- Las lecturas cuentan con una fecha de lectura, y un valor de medicion
+- Los Medidores pueden ser Monofasicos o Trifasicos, y permiten consultar el consumo acumulado. Cada medidor tiene asociada una ubicacion.
+- Finalmente, la clase Utils implementa metodos para determinar si una lectura es valida dentro de una serie de lecturas, y metodos para obtener lecturas dentro de un rango de fechas definido.
+
+-------------------------------------------------------------------------------------
+
+1. Implmentar los metodos requeridos en la clase Medidor que implementa Reseteable
+a. Metodo reset()
+
+2. Implementar las clases MedidorMonofasico, tal que
+a. Extienda de la clase Medidor, e implemente los constructores requeridos
+b. implemente los metodos abstractos de la clase padre
+e. sobreescriba el metodo toString(), tal que agregue "_<tipoDeMedidor>" a la implementacion original de toString() de la clase padre.
+	 (ej.: "SN_12345_MONOFASICO" o "SN_343423_TRIFASICO")
+
+3. Completar la implementacion del constructor y los metodos incompletos de la clase Cliente
+public Cliente (String nombre)
+public boolean asociarMedidor(Medidor m)
+public void removerMedidor()
+public String toString()
+
+NOTA: Puede hacer uso de los metodos de la clase Utils para facilitar la implementacion de los siguientes metodos
+public int consumoPeriodo (Fecha desde, Fecha hasta)
+public void registrarNuevaLectura (Fecha f) throws LecturaInconsistenteException
+	
+4. Completar el constructor de la clase CoordenadaGPS de acuerdo a la documentacion
+public CoordenadaGPS (double latitud, double longitud)
+
+5. Completar la implementacion del los metodos incompletos de la clase Empresa
+public Cliente getCliente(String nombre)
+public Cliente nuevoCliente (String nombre)
+public Medidor nuevoMedidor(TipoMedidor tipo, CoordenadaGPS pos)
+public boolean bajaCliente(String nombreCliente)
+public boolean bajaMedidor(int serialNumber)
+public void asociarMedidorACliente(Cliente c, Medidor m)
+public void disociarMedidorDeCliente (Cliente c)
+	

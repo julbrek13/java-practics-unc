@@ -1,0 +1,4 @@
+
+public enum Categoria {
+	LCD, LED, VENTILADOR, HELADERA, AUDIO, VIDEO, TELEFONIA
+}

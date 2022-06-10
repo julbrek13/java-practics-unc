@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Catalogo
+comment1.params=nombre
+comment1.target=Catalogo(java.lang.String)
+comment10.params=nombre
+comment10.target=void\ init(java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ getItemsList()
+comment3.params=it
+comment3.target=void\ addItem(Item)
+comment4.params=tamanio
+comment4.target=void\ setTamanioPagina(int)
+comment5.params=
+comment5.target=int\ getTamanioPagina()
+comment6.params=filtros
+comment6.target=int\ getNumeroDePaginas(java.util.ArrayList)
+comment7.params=filtros\ pagina
+comment7.target=java.util.List\ getItemsPagina(java.util.ArrayList,\ int)
+comment8.params=filtros
+comment8.target=java.util.List\ getListaFiltrada(java.util.ArrayList)
+comment9.params=id
+comment9.target=Item\ getItemByID(java.lang.String)
+numComments=11

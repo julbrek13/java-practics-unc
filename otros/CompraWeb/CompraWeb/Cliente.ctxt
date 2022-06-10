@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=tarjeta
+comment1.target=Cliente(Tarjeta)
+comment2.params=cat
+comment2.target=void\ mostrarItemsPorCagetoria(Categoria)
+comment3.params=
+comment3.target=void\ mostrarItemsTotales()
+comment4.params=
+comment4.target=void\ mostrarItems()
+comment5.params=itemId
+comment5.target=void\ agregarAlCarrito(java.lang.String)
+comment6.params=
+comment6.target=void\ limpiarCarrito()
+comment7.params=
+comment7.target=void\ mostrarCarrito()
+comment8.params=
+comment8.target=void\ comprar()
+numComments=9

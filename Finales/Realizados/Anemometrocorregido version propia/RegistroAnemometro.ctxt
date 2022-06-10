@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=id\ anio\ dia\ hora\ minuto\ velocidad\ direccion
+comment0.target=RegistroAnemometro(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ Direccion)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RegistroAnemometro\r\n
+comment1.params=id
+comment1.target=void\ setID(java.lang.String)
+comment1.text=\r\n\ Setea\ el\ ID\ de\ este\ registro.\ El\ ID\ se\ guarda\ como\ una\r\n\ cadena\ mayuscula\ y\ sin\ espacios.\ \r\n\ @param\ id\r\n\ @throws\ InvalidArgumentException\ cuando\ el\ ID\ es\ nulo\ o\ vacio.\ \r\n
+comment2.params=
+comment2.target=TipoRegistro\ getTipo()
+comment2.text=\r\n\ Devuelve\ el\ tipo\ de\ registro.\r\n\ @return\r\n
+numComments=3

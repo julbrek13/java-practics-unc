@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tempAbsoluta\ anio\ dia\ hora\ minuto
+comment0.target=RegistroDeTemperatura(int,\ int,\ int,\ int,\ int)
+comment0.text=\ Implemente\ el\ constructor\ "public\ RegistroDeTemperatura\ (int\ tempAbsoluta,\ int\ anio,\ int\ dia,\ int\ hora,\ int\ minuto)"\r\n\t\ \ \ Este\ constructor\ asocia\ un\ objeto\ de\ la\ clase\ Temperatura\ a\ este\ Registro.\r\n\t\ \ \ Este\ constructor\ lanza\ una\ "IllegalArgumentException"\ cuando\ alguno\ de\ los\ atributos\ es\ invalido.\r\n\tc.\ Implemente\ el\ m\uFFFDtodo\ "public\ Temperatura\ getTemperatura()"\r\n\t\ \ \ Este\ m\uFFFDtodo\ retorna\ el\ objeto\ de\ la\ clase\ Temperatura\ asociado\ a\ este\ Registro.\ \r\n
+comment1.params=
+comment1.target=Temperatura\ getTemperatura()
+comment1.text=\r\n\ Este\ m\uFFFDtodo\ retorna\ el\ objeto\ de\ la\ clase\ Temperatura\ asociado\ a\ este\ Registro\r\n
+comment2.params=
+comment2.target=TipoRegistro\ getTipo()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tarjeta
+comment1.params=numero\ anoVencimiento\ mesVencimiento
+comment1.target=Tarjeta(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNumeroTarjeta()
+comment3.params=
+comment3.target=int\ getAnoVencimiento()
+comment4.params=
+comment4.target=int\ getMesVencimiento()
+numComments=5

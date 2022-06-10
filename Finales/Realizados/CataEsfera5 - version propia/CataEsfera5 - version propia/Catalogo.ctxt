@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Catalogo()
+comment0.text=\r\n\ Implemente\ el\ constructor\ tal\ que\ inicialice\ las\ variables\ de\ instancia\r\n\ y\ actualice\ las\ variables\ de\ clase.\r\n
+comment1.params=id\ cuerpo
+comment1.target=boolean\ agregarCuerpo(java.lang.String,\ Cuerpo3D)
+comment1.text=\r\n\ Agrega\ un\ Cuerpo3D\ al\ mapa\ de\ cuerpos\ de\ este\ catalogo.\r\n\ El\ id\ debe\ guardarse\ en\ min\u00FAsculas\ y\ sin\ espacios\ (principio\ o\ fin\ del\ string).\ \r\n\ Retorna\ true\ si\ se\ agreg\u00F3\ correctamente,\ false\ si\ el\ id\ es\ null\ o\ vac\u00EDo,\ o\ si\ el\ \r\n\ cuerpo3D\ es\ null.\r\n\ \r\n\ @param\ id\ \r\n\ @param\ cuerpo\r\n\ @return\ false\ si\ id\ es\ null\ o\ vac\u00EDo,\ o\ si\ el\ cuerpo3D\ es\ null\r\n
+comment2.params=id
+comment2.target=boolean\ eliminarCuerpo(java.lang.String)
+comment2.text=\r\n\ Elimina\ del\ catalogo\ el\ cuerpo\ con\ este\ id.\r\n\ El\ id\ debe\ convertirse\ a\ min\u00FAsculas\ y\ sin\ espacios\ (principio\ o\ fin\ del\ string).\r\n\ @param\ id\r\n\ @return\ false\ si\ no\ existe\ un\ cuerpo\ con\ este\ id\ en\ el\ catalogo\r\n
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment3.text=\r\n\ \r\n\ @return\ el\ id\ de\ este\ catalogo\r\n
+comment4.params=
+comment4.target=int\ getCantidadDeCuerposTotal()
+comment4.text=\r\n\ \r\n\ @return\ la\ cantidad\ de\ cuerpos\ de\ este\ catalogo\ \r\n
+comment5.params=m
+comment5.target=java.util.List\ listarCuerposPorMaterial(Material)
+comment5.text=\r\n\ Devuelve\ una\ lista\ de\ Cuerpos\ de\ este\ catalogo\ cuyo\ material\ fue\ pasado\r\n\ como\ argumento\r\n\ @param\ m\r\n\ @return\ lista\ de\ cuerpos\ de\ material\ m\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Devuelve\ un\ String\ con\ el\ siguiente\ formato\:\r\n\ "Catalogo\ <id\ del\ catalogo>\ con\ <cantidad\ total\ de\ cuepos\ 3D>\ cuerpos.";\r\n
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=temp\ anio\ dia\ hora\ minuto
+comment0.target=RegistroTemperatura(int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ \ \ Constructor\ por\ argumentos\ de\ un\ registro\ de\ temperatura\r\n\ \ \ @param\ temp\ \ Temperatura\ en\ grados\ Kelvin\ (\ >\ 0\ )\ \r\n\ \ \ @param\ anio\ \ A\u00F1o\ del\ registro.\ (\ >\=\ 1900\ )\ \r\n\ \ \ @param\ dia\ \ D\u00EDa\ del\ registro.\ (\ >\=1\ y\ <365\ )\ \r\n\ \ \ @param\ dia\ \ Hora\ del\ registro.\ (\ >\=0\ y\ <24\ )\ \r\n\ \ \ @param\ minuto\ \ Minuto\ del\ registro\ (\ >\=0\ y\ <60)\ \r\n\ \ \ @throws\ IllegalArgumentException\ cuando\ alguno\ de\ sus\ argumentos\ es\ inv\u00E1lido.\r\n
+comment1.params=
+comment1.target=Temperatura\ getTemperatura()
+comment1.text=\r\n\ \ \ Obtiene\ la\ temperatura\ guardada\ en\ el\ registro.\r\n\ \ \ @return\ Objeto\ Temperatura.\r\n
+comment2.params=
+comment2.target=TipoRegistro\ getTipo()
+comment2.text=\r\n\ \ \ Obtiene\ el\ tipo\ del\ registro.\ \r\n\ \ \ @return\ El\ tipo\ del\ registro.\r\n
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\r\n\ \ \ Sobrecarga\ del\ m\u00E9todo\ equals.\r\n\ \ \ @return\ Un\ booleano\ indicando\ si\ son\ iguales\ o\ no.\r\n
+numComments=4

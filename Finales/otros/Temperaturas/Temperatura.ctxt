@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=tempAbsoluta
+comment0.target=Temperatura(int)
+comment0.text=\r\n\ TODO\:\ Implementar\ el\ constructor\r\n\ @param\ tempAbsoluta\ en\ grados\ Kelvin\r\n\ @throws\ TemperaturaInvalidaException\:\ cuando\ la\ temperatura\ Absoluta\ es\ negativa\r\n
+comment1.params=
+comment1.target=int\ getTemperaturaEnCelsius()
+comment1.text=\r\n\ TODO\:\ Implementar\ \r\n\ @return\ la\ temperatura\ expresada\ en\ grados\ Celsius\r\n
+comment2.params=
+comment2.target=int\ getTemperaturaEnFarenheit()
+comment2.text=\r\n\ TODO\:\ Implementar\r\n\ @returna\ temperatura\ expresada\ en\ grados\ Farenheit\r\n
+comment3.params=
+comment3.target=int\ getTemperaturaEnKelvin()
+comment3.text=\r\n\ TODO\:\ Implementar\r\n\ @return\ temperatura\ expresada\ en\ grados\ Kelvin\r\n
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5

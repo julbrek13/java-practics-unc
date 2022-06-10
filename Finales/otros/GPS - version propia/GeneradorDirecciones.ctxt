@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GeneradorDirecciones()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GeneradorDirecciones\r\n
+comment1.params=linea
+comment1.target=Direccion\ decodifica(java.lang.String)
+comment1.text=\r\n\ Decodifica\ un\ string,\ procesando\ la\ linea\ (ignorando\ espacios,\ mayusculas/minusculas)\ de\ \r\n\ forma\ tal\ de\ generar\ una\ direcci\u00F3n\ del\ tipo\ Direccion.\r\n\ Cuando\ la\ linea\ no\ puede\ ser\ decodificada,\ la\ direccion\ devuelta\ es\ desconocida.\r\n\ \r\n
+numComments=2
